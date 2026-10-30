@@ -1,4 +1,27 @@
-# Consumer Hardware Products Template
+> **Part of a template family** — use alongside
+> [`big-software-product-template`](https://github.com/anurag-panda-dev/big-software-product-template) (software only) and
+> [`full-stack-consumer-hardware-products-template`](https://github.com/anurag-panda-dev/full-stack-consumer-hardware-products-template) (hardware + software).
+
+<h1 align="center">Consumer Hardware Products Template</h1>
+
+<p align="center"><b>Every folder explains itself — to humans and to AI agents.</b><br>
+100 <code>purpose.txt</code> maps · discipline-first layout · ADR/RFC decision discipline</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT License" /></a>
+  <a href="https://github.com/anurag-panda-dev/consumer-hardware-products-template/generate"><img src="https://img.shields.io/badge/Use%20this%20template-grey?style=flat-square&logo=github&logoColor=white" alt="Use this template" /></a>
+  <a href="https://github.com/anurag-panda-dev/consumer-hardware-products-template"><img src="https://img.shields.io/github/repo-size/anurag-panda-dev/consumer-hardware-products-template?style=flat-square" alt="Repo size" /></a>
+</p>
+
+```text
+products/         specs, variants, releases ── points INTO the disciplines below
+mechanical/       CAD · enclosure · CMF
+electronics/      PCB · power · RF
+firmware/         bootloader · drivers · app · OTA agent
+certification/    BIS · WPC · FCC · CE evidence
+manufacturing/    DFM · assembly · jigs · yields
+supply-chain/  validation/  packaging/  test-tools/
+```
 
 A monorepo template for developing **physical consumer products** — organized by *engineering discipline* (mechanical, electronics, firmware, certification, manufacturing), with `products/` holding per-line specs that point into them.
 
