@@ -53,7 +53,7 @@ rfcs/ labs/ sandbox/ tooling/ (scripts, exporters) security/ .ai/ AGENTS.md
 
 ## Using this template
 
-1. **Use this template** on GitHub (or `gh repo create my-project --template <owner>/consumer-hardware-products-template`)
+1. **Use this template** on GitHub (or `gh repo create my-project --template anurag-panda-dev/consumer-hardware-products-template`)
 2. **Rename** — update root `README.md`, `purpose.txt`, `AGENTS.md`
 3. **Replace `products/example-device/`** with your real product line (keep the layout: `product.md`, `requirements/`, `variants/`, `release/`)
 4. **Record your first decision** — copy `docs/decisions/TEMPLATE.md` → `ADR-0001-…`; big choices (MCU platform, enclosure material, CM partner) go through `rfcs/` first
