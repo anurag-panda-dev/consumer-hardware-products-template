@@ -13,6 +13,10 @@
   <a href="https://github.com/anurag-panda-dev/consumer-hardware-products-template"><img src="https://img.shields.io/github/repo-size/anurag-panda-dev/consumer-hardware-products-template?style=flat-square" alt="Repo size" /></a>
 </p>
 
+<p align="center">
+  <img src="docs/assets/repo-hero.png" alt="consumer-hardware-products-template repository layout on GitHub" width="100%">
+</p>
+
 ```text
 products/         specs, variants, releases ── points INTO the disciplines below
 mechanical/       CAD · enclosure · CMF
