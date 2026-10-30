@@ -1,0 +1,7 @@
+PURPOSE:
+  Device & supply-chain security: threat model, firmware signing policy, vulnerability disclosure.
+
+SHOULD CONTAIN:
+  - THREAT-MODEL.md, SECURITY.md, key-management.md, audits/
+
+SEE: docs/decisions/ADR-0001-Structure.md

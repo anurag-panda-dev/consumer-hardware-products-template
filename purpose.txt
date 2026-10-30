@@ -1,0 +1,13 @@
+PURPOSE:
+  Consumer-hardware product template — monorepo for developing physical consumer
+  products (industrial design, electronics, firmware, certification, manufacturing).
+  Organized by ENGINEERING DISCIPLINE; products/ holds per-line specs that point into them.
+  Empty scaffolding is forbidden: folders fill only as real work arrives.
+
+SHOULD CONTAIN:
+  - README.md, AGENTS.md, PACKAGE.md, CONTRIBUTING.md, CHANGELOG.md
+  - docs/, rfcs/, products/, mechanical/, electronics/, firmware/, certification/
+  - manufacturing/, supply-chain/, validation/, packaging/, test-tools/
+  - business/, legal/, labs/, sandbox/, tooling/, security/
+
+SEE: docs/decisions/ADR-0001-Structure.md

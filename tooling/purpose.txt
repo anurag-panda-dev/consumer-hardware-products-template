@@ -1,0 +1,7 @@
+PURPOSE:
+  Repo-wide tooling: scripts and exporters (CAD/KiCad automation).
+
+SHOULD CONTAIN:
+  - scripts/, exporters/
+
+SEE: docs/decisions/ADR-0001-Structure.md

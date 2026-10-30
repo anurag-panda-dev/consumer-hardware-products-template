@@ -1,0 +1,7 @@
+PURPOSE:
+  System-shaping docs: product architecture (mechanical + electrical + firmware block diagram), interfaces, power budget.
+
+SHOULD CONTAIN:
+  - system-architecture.md, block-diagrams/, interfaces.md
+
+SEE: docs/decisions/ADR-0001-Structure.md

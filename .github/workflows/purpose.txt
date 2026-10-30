@@ -1,0 +1,7 @@
+PURPOSE:
+  CI pipelines: design-rule checks (KiCad DRC/ERC), firmware build + unit tests, BOM lint, docs link check.
+
+SHOULD CONTAIN:
+  - ci.yml, firmware.yml, bom-check.yml
+
+SEE: docs/decisions/ADR-0001-Structure.md
